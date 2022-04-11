@@ -1,5 +1,5 @@
 # FaceMaskDetection
-1. Clone the repository into your database
+1. Clone the repository into your device
 2. Open the folder
 3. From the folder and open command prompt
 4. To run the project you must have python3, cuda 10.1 installed
